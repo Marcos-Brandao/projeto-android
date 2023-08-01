@@ -29,9 +29,9 @@
 }
 
 body {
-    position: absolute;
     background-color: var(--cor0);
     font-family: var(--fonte-padrao);
+    min-width: 540px;
 }
 
 a.externo::after {
